@@ -28,7 +28,7 @@
 
 #### 下载安装
 
-通过 [Github 下载](https://github.com/akof1314/Wiz.UEditor/releases "Github 下载")安装。
+通过 [Github 下载](https://github.com/xhhjin/Wiz.UEditor/releases "Github 下载")安装。
 
 #### 使用方法
 点击`编辑`按钮箭头，选择`UEditor编辑器`编辑。
