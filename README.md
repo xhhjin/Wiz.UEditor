@@ -10,7 +10,7 @@
 [http://akof1314.github.io/Wiz.UEditor](http://akof1314.github.io/Wiz.UEditor)
 
 #### 当前版本
-2.2
+2.2.1
 
 #### 版本说明
 基于 1.4.3 版本 UEditor
